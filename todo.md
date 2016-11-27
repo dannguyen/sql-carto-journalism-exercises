@@ -1,3 +1,31 @@
+- How to add a dataset and plot points
+  + style the map
+  + animate the map
+
+
+- How to add a dataset and use SQL to filter it
+  + Starbucks in America
+
+- Working with shape files
+  + Add state shapes
+  + Add rails
+  + Add census data
+
+- Working with multiple layers
+
+
+- Working with shape files and SQL 
+  + Intro to geospatial analysis with POSTGIS
+  
+- Joins with PostGIS
+  + Carto and PostGIS
+  + Web mercator
+  + cartodb_id
+
+
+- Working with POSTGIS
+
+
 - Plot biggest earthquakes
 - Plot animated map of earthquakes
 

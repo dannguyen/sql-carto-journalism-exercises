@@ -9,9 +9,7 @@ http://www2.census.gov/geo/tiger/GENZ2015/shp/cb_2015_us_state_5m.zip
 http://www.dailykos.com/story/2014/8/20/1323254/-New-Spreadsheet-with-1828-2012-Presidential-Results-PVI-by-State-Neatly-Colored
 http://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page
 http://www.traderjoes.com/pdf/Trader-Joes-Stores.pdf
-http://www.traderjoes.com/pdf/Trader-Joes-Stores.pdf
 https://data.sfgov.org/Economy-and-Community/Mobile-Food-Facility-Permit/rqzj-sfat
-https://www.muckrock.com/foi/new-york-city-17/pet-licensing-data-for-new-york-city-23826/
 https://www.muckrock.com/foi/los-angeles-91/pet-licensing-data-for-los-angeles-8682/
 https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2003/tmnf-yvry
 https://data.sfgov.org/Housing-and-Buildings/Eviction-Notices/5cei-gny5
