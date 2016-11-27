@@ -3,21 +3,17 @@ Expects a single filename argument
 converts tab delimitation to CSV
 cuts out second-line of inkjunk
 
-python scripts/convert-starbucks.py \
-   data/raw/starbucks_locations.csv \
-   > data/wrangled/starbucks_locations.csv
+python scripts/wrangle-chicago-crimes.py \
+   data/raw/chicago_homicides_and_gun_crimes.csv \
+   > data/wrangled/chicago_homicides_and_gun_crimes.csv
 """
 
 from csv import DictReader, DictWriter
-from datetime import date
-from re import search
+from datetime import datetime
 from sys import argv, stdout
 
-HEADERS = ["Store ID","Name","Store Number",
-    "Phone Number","Ownership Type","Street Combined",
-    "City","Country Subdivision",
-    "Country","Postal Code",
-    "Latitude","Longitude"]
+HEADERS = ["ID", "Date", "Block", "Primary Type", "Description", "Location Description",
+    "Arrest", "Domestic", "Beat", "District", "Latitude", "Longitude"]
 
 
 if __name__ == '__main__':
@@ -27,4 +23,5 @@ if __name__ == '__main__':
     with open(srcpath, 'r') as rf:
         rcsv = DictReader(rf)
         for row in rcsv:
+            row['Date'] = datetime.strptime(row['Date'], '%m/%d/%Y %I:%M:%S %p').strftime("%Y-%m-%d %H:%M:%S")
             wcsv.writerow({k: v.strip() for k, v in row.items() if k in HEADERS})

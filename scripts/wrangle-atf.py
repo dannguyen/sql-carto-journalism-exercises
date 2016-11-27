@@ -3,7 +3,7 @@ Expects a single filename argument
 converts tab delimitation to CSV
 cuts out second-line of inkjunk
 
-python scripts/convert-atf.py \
+python scripts/wrangle-atf.py \
    data/raw/atf_firearm_dealers_2016_08.txt \
    > data/wrangled/atf_firearm_dealers_2016_08.csv
 """

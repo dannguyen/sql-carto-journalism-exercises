@@ -1,0 +1,52 @@
+name,slug,description
+HC03_VC186,american_ancestry_pct,Percent; ANCESTRY - Total population - American
+HC01_VC21,average_household_size,Estimate; HOUSEHOLDS BY TYPE - Average household size
+HC01_VC55,women_gave_birth_in_last_year_per_1k,"Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 15 to 50 years old"
+HC03_VC96,bachelors_degree_or_higher_pct,Percent; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher
+HC03_VC146,foreign_born_pct,Percent; YEAR OF ENTRY - Population born outside the United States
+HC03_VC120,same_house_last_year_pct,Percent; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+HC01_VC170,population_5_years_and_older,Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over
+HC03_VC171,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+HC03_VC218,households_with_broadband_internet_pct,Percent; COMPUTERS AND INTERNET USE - Total Households - With a broadband Internet subscription
+
+
+
+HC01_VC03,total_housing_units,Estimate; HOUSING OCCUPANCY - Total housing units
+HC01_VC08,homeowner_vacancy_rate,Estimate; HOUSING OCCUPANCY - Homeowner vacancy rate
+HC01_VC118,owner_occupied_units,Estimate; VALUE - Owner-occupied units
+HC03_VC124,owner_occupied_units_300k_to_499k_pct,"Percent; VALUE - Owner-occupied units - $300,000 to $499,999"
+HC03_VC125,owner_occupied_units_500k_to_999k_pct,"Percent; VALUE - Owner-occupied units - $500,000 to $999,999"
+HC03_VC126,owner_occupied_units_1000k_or_more_pct,"Percent; VALUE - Owner-occupied units - $1,000,000 or more"
+HC01_VC127,owner_occupied_units_median_price,Estimate; VALUE - Owner-occupied units - Median (dollars)
+
+
+HC01_VC03,Estimate; SEX AND AGE - Total population
+HC01_VC04,Estimate; SEX AND AGE - Total population - Male
+HC01_VC05,Estimate; SEX AND AGE - Total population - Female
+HC03_VC13,Percent; SEX AND AGE - 25 to 34 years
+HC03_VC29,Percent; SEX AND AGE - 65 years and over
+
+
+HC02_VC45,Margin of Error; RACE - Total population - Two or more races
+(pct of one race or total?) HC03_VC49,Percent; RACE - One race - White
+HC03_VC50,Percent; RACE - One race - Black or African American
+HC03_VC56,Percent; RACE - One race - Asian
+HC03_VC88,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+
+
+HC01_VC27,Estimate; COMMUTING TO WORK - Workers 16 years and over
+HC03_VC30,Percent; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC03_VC33,Percent; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC03_VC31,Percent; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC03_VC36,Percent; COMMUTING TO WORK - Mean travel time to work (minutes)
+
+
+HC01_VC40,Estimate; OCCUPATION - Civilian employed population 16 years and over
+
+
+HC03_VC84,"Percent; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC01_VC85,Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC01_VC86,Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC01_VC125,"Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+HC01_VC126,"Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+HC03_VC161,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
